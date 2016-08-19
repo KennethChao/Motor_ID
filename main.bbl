@@ -1,0 +1,17 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Mot()]{MotorFig}
+System modeling in control tutorials for matlab and simulink.
+\newblock URL
+  \url{http://ctms.engin.umich.edu/CTMS/index.php?example=MotorSpeed&section=SystemModeling}.
+
+\bibitem[Wik()]{WikiDCM}
+Brushed dc electric motor from wikipedia.
+\newblock URL \url{https://en.wikipedia.org/wiki/Brushed_DC\_electric\_motor}.
+
+\end{thebibliography}

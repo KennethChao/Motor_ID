@@ -1,0 +1,12 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: abbrvnat.bst
+Illegal, another \bibstyle command---line 33 of file main.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: sample.bib
+Warning--to sort, need author or key in WikiDCM
+Warning--to sort, need author or key in MotorFig
+Warning--empty year in MotorFig
+Warning--empty year in WikiDCM
+(There was 1 error message)

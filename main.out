@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Brushed DC motor}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Generic DC Motor Model}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Model Parameter Identification}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Identifying R}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Identifying Kb}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Identifying Kt}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.4}{Identifying L}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.5}{Identifying B}{subsection.1.2}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.6}{Identifying J}{subsection.1.2}% 9
